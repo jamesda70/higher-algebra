@@ -1,0 +1,37 @@
+# 2A Algebraic Indices
+David James
+:stem: latexmath
+
+## Key Points
+
+- stem:[x^0 = 1] and stem:[x^{-m} = \frac{1}{x^m}]
+- stem:[x^{\frac{1}{n}} = \sqrt[n\]{x}]
+- stem:[x^m \times x^n = x^{m+n}]
+- stem:[x^m \div x^n = x^{m-n}]
+
+## Practice I
+
+. Write as fractions.
+.. stem:[x^{-1}]
+.. stem:[x^{-2}]
+.. stem:[x^{-3}]
+.. stem:[2x^{-3}]
+.. stem:[7x^{-3}]
+.. stem:[\frac{7}{2}x^{-3}]
+.. stem:[\frac{7}{2}x^{-2}]
+
+. Write in the form of roots.
+.. stem:[x^{\frac{1}{2}}]
+.. stem:[x^{-\frac{1}{2}}]
+.. stem:[x^{\frac{1}{3}}]
+.. stem:[x^{-\frac{1}{3}}]
+.. stem:[x^{-\frac{1}{4}}]
+.. stem:[x^{0.5}]
+.. stem:[x^{-0.5}]
+.. stem:[4x^{\frac{1}{2}}]
+.. stem:[4x^{-\frac{1}{2}}]
+
+### Reflect
+
+Sam writes stem:[4x^{\frac{1}{2}} = 2 \sqrt{x}]
+Sam is wrong. Explain the mistake he has made.
